@@ -272,3 +272,15 @@ form {
 	text-align: center;
 	margin: 40px auto;
 }
+
+#information {
+	background: url(../img/background-text-information.png) repeat;
+	padding: 30px 0 20px 0;
+}
+
+.information_program {
+	width: 400px;
+	color: #e7e4bb;
+	line-height: 1.5em;
+}
+
